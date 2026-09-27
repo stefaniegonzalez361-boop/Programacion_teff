@@ -1,6 +1,6 @@
 ﻿namespace Programacion_teff
 {
-    partial class frmRegistro
+    partial class FrmRegistro
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -69,9 +69,10 @@
             // 
             // txtResultado
             // 
-            this.txtResultado.Location = new System.Drawing.Point(368, 209);
+            this.txtResultado.Location = new System.Drawing.Point(368, 204);
+            this.txtResultado.Multiline = true;
             this.txtResultado.Name = "txtResultado";
-            this.txtResultado.Size = new System.Drawing.Size(100, 20);
+            this.txtResultado.Size = new System.Drawing.Size(190, 83);
             this.txtResultado.TabIndex = 3;
             // 
             // txtEdad
@@ -99,6 +100,7 @@
             this.lblResultado.Size = new System.Drawing.Size(55, 13);
             this.lblResultado.TabIndex = 6;
             this.lblResultado.Text = "Resultado";
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // lblCorreo
             // 
@@ -127,7 +129,7 @@
             // 
             // btnMostrar
             // 
-            this.btnMostrar.Location = new System.Drawing.Point(281, 269);
+            this.btnMostrar.Location = new System.Drawing.Point(281, 293);
             this.btnMostrar.Name = "btnMostrar";
             this.btnMostrar.Size = new System.Drawing.Size(75, 23);
             this.btnMostrar.TabIndex = 10;
@@ -137,21 +139,23 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Location = new System.Drawing.Point(368, 269);
+            this.btnLimpiar.Location = new System.Drawing.Point(368, 293);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(75, 23);
             this.btnLimpiar.TabIndex = 11;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(462, 269);
+            this.btnSalir.Location = new System.Drawing.Point(462, 293);
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 23);
             this.btnSalir.TabIndex = 12;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // frmRegistro
             // 

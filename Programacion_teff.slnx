@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="Programacion_teff/Programacion_teff.csproj" />
+  <Project Path="frmCalculadora.cs/frmCalculadora.cs.csproj" Id="8dd9c1cd-a6f3-4bdc-964f-743c752ae885" />
+  <Project Path="Programacion_teff/Programacion_teff.csproj" Id="597a448b-78df-44cf-9af0-51fb945496cc" />
 </Solution>
