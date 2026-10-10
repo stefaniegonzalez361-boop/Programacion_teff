@@ -1,4 +1,12 @@
 <Solution>
-  <Project Path="frmCalculadora.cs/frmCalculadora.cs.csproj" Id="8dd9c1cd-a6f3-4bdc-964f-743c752ae885" />
-  <Project Path="Programacion_teff/Programacion_teff.csproj" Id="597a448b-78df-44cf-9af0-51fb945496cc" />
+  <Folder Name="/Unidad_1/">
+    <Project Path="frmCalculadora.cs/frmCalculadora.cs.csproj" Id="8dd9c1cd-a6f3-4bdc-964f-743c752ae885" />
+    <Project Path="Programacion_teff/Programacion_teff.csproj" Id="597a448b-78df-44cf-9af0-51fb945496cc" />
+  </Folder>
+  <Folder Name="/Unidad_3/">
+    <Project Path="Ejercicio_1/Ejercicio_1.csproj" Id="5234a51b-9cfa-4c3e-b500-4b093b922118" />
+    <Project Path="ejercicio_2/Ejercicio_2.csproj" Id="e73a5170-9bc5-4174-a272-9011b98f9687" />
+    <Project Path="ejercicio_3/Ejercicio_3.csproj" Id="cbf40348-52d2-46ec-a717-b28770885bda" />
+    <Project Path="Practica_programada/Practica_programada.csproj" Id="b96f61d8-870d-4189-bf35-671d589a8902" />
+  </Folder>
 </Solution>
