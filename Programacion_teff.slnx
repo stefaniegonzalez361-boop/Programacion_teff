@@ -9,5 +9,10 @@
     <Project Path="ejercicio_3/Ejercicio_3.csproj" Id="cbf40348-52d2-46ec-a717-b28770885bda" />
     <Project Path="Practica_programada/Practica_programada.csproj" Id="b96f61d8-870d-4189-bf35-671d589a8902" />
   </Folder>
+  <Project Path="Calculo_salario/Calculo_salario.csproj" Id="89f732b2-76d5-49ff-8a54-9846aeacc8d3" />
+  <Project Path="Evaluar_nota/Evaluar_nota.csproj" Id="f82dbb68-8845-414c-ae78-765de4c10db7" />
+  <Project Path="Menu_lista/Menu_lista.csproj" Id="3e4ab9ac-8678-4ee8-90cd-efad5fa97429" />
+  <Project Path="POO/POO.csproj" Id="20640f62-c59d-4cbc-bc69-9e15b6cf7c6f" />
   <Project Path="Unidad_4/Unidad_4.csproj" Id="d70879ed-bb91-487a-b9a4-b06870fedae6" />
+  <Project Path="Unidad_6/Unidad_6.csproj" Id="e5bbd746-a824-4276-8f1c-49b554543c48" />
 </Solution>
